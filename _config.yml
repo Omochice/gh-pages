@@ -1,18 +1,18 @@
-name: YourName
+name: Omochice
 permalink: :year/:month/:day/:title
-baseurl: /jekyll-theme-diary
+baseurl: /gh-pages
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
-start: 2017
-now: 2019
+start: 2021
+now: 2021
  
 # Social links showed in the footer
 # You just need modify the nickname of github and twitter
 link:
   email : yourname@gmail.com
-  github : yourname
-  twitter : yourname
+  github : Omochice
+  twitter : omochicemgr
 
 # Links in the navigation, you can modify both link name and link url
 nav:
