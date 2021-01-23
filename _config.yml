@@ -22,6 +22,8 @@ nav:
    
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  hard_wrap: true
 
 sass:
   sass_dir: _sass
