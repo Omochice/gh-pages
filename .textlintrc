@@ -1,0 +1,13 @@
+{
+  "filters": {},
+  "rules": {
+    "preset-ja-spacing": true,
+    "ja-no-mixed-period": {
+      "allowPeriodMarks": [
+        "、"
+      ],
+      "allowEmijiAtEnd": true,
+      "forceAppendPeriod": true
+    }
+  }
+}
