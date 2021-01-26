@@ -1,0 +1,26 @@
+name: format markdown
+
+on:
+  push:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 15.x
+      - name: install formatters  
+        run: |
+          yarn add prettier textlint textlint-rule-preset-ja-spacing textlint-rule-ja-no-mixed-period
+      - name: formatting
+        run: |
+          yarn run prettier --write _posts && yarn run textlint --fix _posts
+      - name: commits
+        run: |
+          git config user.name = "github-actions"
+          git config user.email = "github-actions[bot]@users.noreply.github.com"
+          git add -u 
+          git commit -m "[BOT] auto format by github actions" --allow-empty
+          git push origin ${{ steps.extract_branch.outputs.BRANCH_NAME }}
