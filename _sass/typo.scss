@@ -177,7 +177,6 @@ mark {
 
 /* 代码片断 */
 pre, code, pre tt {
-    font-family: Courier, 'Courier New', monospace;
     overflow-x: auto;
 }
 
@@ -250,7 +249,7 @@ strong, b {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+    font-family: sans-serif; 
     font-weight: 100;
     color: #000;
     line-height: 1.35;

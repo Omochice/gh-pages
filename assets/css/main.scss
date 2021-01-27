@@ -2,6 +2,7 @@
 ---
 @import "style";
 @import "paper";
+@import "typo";
 @import "calendar";
 
 // @import url("https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap");
@@ -190,9 +191,7 @@ footer ul.contact li:last-child {
   color: #5e5d5d;
 }
 
-pre {
-  white-space: pre-wrap;
-}
+
 code {
   font-family: "Fira Code", monospace;
 }
