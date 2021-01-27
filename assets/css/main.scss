@@ -190,7 +190,9 @@ footer ul.contact li:last-child {
   color: #5e5d5d;
 }
 
-pre,
+pre {
+  white-space: pre-wrap;
+}
 code {
   font-family: "Fira Code", monospace;
 }
