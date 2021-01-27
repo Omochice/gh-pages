@@ -3,6 +3,7 @@ layout: post
 title: "canny edge detectionをfortranで書く"
 category: ""
 excerpt: ""
+math: true
 ---
 
 # canny edge detection
