@@ -197,7 +197,7 @@ code {
 }
 
 .gist * {
-  font-family: "Fira Code", monospace;
+  font-family: "Fira Code", monospace !important;
   .gist-data {
     max-height: 20em;
     overflow: auto;
