@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "style";
 @import "paper";
 @import "typo";
@@ -191,9 +192,16 @@ footer ul.contact li:last-child {
   color: #5e5d5d;
 }
 
-
 code {
   font-family: "Fira Code", monospace;
+}
+
+.gist * {
+  font-family: "Fira Code", monospace !important;
+  .gist-data {
+    max-height: 20em;
+    overflow: auto;
+  }
 }
 
 @import "layout";
