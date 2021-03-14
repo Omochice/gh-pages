@@ -219,3 +219,6 @@ pip-log.txt
 _site
 
 .sass-cache/
+
+.jekyll-cache
+gist
