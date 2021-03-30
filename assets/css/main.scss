@@ -193,11 +193,13 @@ footer ul.contact li:last-child {
 }
 
 code {
-  font-family: "Fira Code", monospace;
+  font-family: "Fira Code" !important;
+  background-color: #edf2f7 !important;
+  font-size: 0.9em;
 }
 
 .gist * {
-  font-family: "Fira Code", monospace !important;
+  font-family: "Fira Code" !important;
   .gist-data {
     max-height: 20em;
     overflow: auto;
