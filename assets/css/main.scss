@@ -198,7 +198,11 @@ code {
 }
 
 :not(pre) > code {
-  background-color: #f0f0f0
+  background-color: #f0f0f0;
+  padding: 0.2em 0.4em;
+  font-size: 0.85em;
+  border-radius: 4px;
+  vertical-align: 0.08em;
 }
 
 .gist * {
