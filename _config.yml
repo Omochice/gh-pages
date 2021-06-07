@@ -20,6 +20,7 @@ nav:
   Calendar: "/"
   Posts: "/posts"
   Profile: "/profile"
+  Products: "/products"
 
 markdown: kramdown
 highlighter: rouge
