@@ -12,7 +12,7 @@ jobs:
       - uses: actions/setup-node@v2
       - name: install formatters
         run: |
-          yarn add prettier textlint textlint-rule-preset-ja-spacing textlint-rule-ja-no-mixed-period textlint-rule-preset-ja-technical-writing prettier-rule-spellcheck-tech-word
+          yarn add prettier textlint textlint-rule-preset-ja-spacing textlint-rule-ja-no-mixed-period textlint-rule-preset-ja-technical-writing textlint-rule-spellcheck-tech-word 
       - name: formatting
         run: |
           yarn run prettier --write _posts && yarn run textlint --fix _posts
