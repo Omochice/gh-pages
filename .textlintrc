@@ -9,7 +9,9 @@
         ],
         "allowEmijiAtEnd": true,
         "forceAppendPeriod": true
-      }
+      },
+      "no-exclamation-question-mark": false,
+      "ja-no-weak-phrase": false
     },
     "spellcheck-tech-word": true
   }
