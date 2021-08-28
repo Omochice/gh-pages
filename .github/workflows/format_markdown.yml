@@ -2,6 +2,8 @@ name: format markdown
 
 on:
   push:
+    paths:
+      - "**/*.md"
 
 
 jobs:
