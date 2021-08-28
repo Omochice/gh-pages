@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: denoland/setup-deno@v1
-      - run: |
+      - run: >
           deno run --allow-read --allow-net --no-check
           https://deno.land/x/denote/cli/denote.ts register ./denote.yml
           --name omochice --token '${{ secrets.DENOTE_TOKEN }}'
