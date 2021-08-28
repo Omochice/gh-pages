@@ -3,7 +3,7 @@ name: Omochice
   # When this is left blank, your page path (denote.deno.dev/???) is used.
   # This is also used in the title of html.
 
-image: https://avatars.githubusercontent.com/u/44566328?s=400&u=c02fd74708038c6e900deeb58aabb3f79b757965
+image: https://avatars.githubusercontent.com/u/44566328
   # The URL of the main image of the page.
   # This is also used in 'og:image'.
   # When this is left blank, it is just skipped.
