@@ -33,5 +33,5 @@ window.fetch = async(): Promise<Response> => {
 
 ### 参考
 
-- [Response | Deno Deploy Docs](https://deno.com/deploy/docs/runtime-response)
+- [Response \| Deno Deploy Docs](https://deno.com/deploy/docs/runtime-response)
 
