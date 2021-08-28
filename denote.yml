@@ -29,7 +29,7 @@ list:
   #   These values are required.
 
   links:
-    icon: feather/external-link
+    icon: fontawesome/chain
     items:
       - icon: octicons/octoface
         link: https://github.com/Omochice
