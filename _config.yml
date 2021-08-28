@@ -41,3 +41,12 @@ exclude:
   - "vendor/ruby/"
   - "templates/"
   - "README.md"
+
+gems:
+  - jekyll-seo-tag
+
+twitter:
+  username: omochicemgr
+  card: summary
+
+lang: ja_JP
