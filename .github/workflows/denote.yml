@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - denote.yml
+      - .github/workflows/denote.yml
 
 
 jobs:
