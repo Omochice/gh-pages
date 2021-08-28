@@ -1,0 +1,19 @@
+name: update Denote
+
+on:
+  push:
+    paths:
+      - denote.yml
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+      - uses: denoland/setup-deno@v1
+      - run: |
+          deno run --allow-read --allow-net --no-check
+          https://deno.land/x/denote/cli/denote.ts register ./denote.yml
+          --name kawarimidoll --token '${{ secrets.DENOTE_TOKEN }}'

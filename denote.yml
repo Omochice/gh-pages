@@ -1,0 +1,39 @@
+name: Omochice
+  # The name shown on the top of the page.
+  # When this is left blank, your page path (denote.deno.dev/???) is used.
+  # This is also used in the title of html.
+
+image: https://avatars.githubusercontent.com/u/44566328?s=400&u=c02fd74708038c6e900deeb58aabb3f79b757965
+  # The URL of the main image of the page.
+  # This is also used in 'og:image'.
+  # When this is left blank, it is just skipped.
+
+favicon: https://deno.land/favicon.svg
+#   The URL of the favicon of the page.
+#   When this is left blank, Denote logo is used.
+
+description: |
+  vimが好きです。
+
+#   The comments shown under the page name.
+#   This is also used in 'og:description'.
+#   When this is left blank, it is just skipped.
+
+twitter: "@omochicemgr"
+#   Your twitter username.
+#   This is used in 'twitter:site'.
+#   When this is left blank, it is just skipped.
+
+list:
+  #   The list of the group of the contents.
+  #   These values are required.
+
+  links:
+    icon: feather/external-link
+    items:
+      - icon: octicons/octoface
+        link: https://github.com/Omochice
+      - icon: fontawesome/twitter
+        link: https://twitter.com/omochicemgr
+      - icon: entypo/book
+        link: https://bookmeter.com/users/1179021
