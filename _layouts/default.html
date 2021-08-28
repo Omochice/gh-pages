@@ -9,9 +9,10 @@
     />
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend:
     site.baseurl }}"> <link rel="stylesheet" href="{{
-    "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}">
-    <link rel="icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}">
+    "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}"> <link
+    rel="icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}">
     <title>{{ page.title }}</title>
+    {% include ogp.html %}
   </head>
 
   <body>
@@ -36,9 +37,7 @@
         {% include calendar.html %}
 
         <!--Article body-->
-        <article class="typo">
-          {{ content }}
-        </article>
+        <article class="typo">{{ content }}</article>
       </div>
     </div>
 
