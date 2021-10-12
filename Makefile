@@ -7,4 +7,6 @@ article:
 		&& cp templates/article.md _posts/${today}-$$title.md \
 		&& echo "📝 create new article _posts/${today}-$$title.md !!"
 
-
+.PHONY: lint
+lint:
+	@$(shell which textlint) **/*.md
