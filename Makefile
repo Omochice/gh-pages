@@ -8,5 +8,8 @@ article:
 
 .PHONY: lint
 lint:
-	@$(shell which textlint) **/*.md
+	@npx textlint **/*.md
 
+.PHONY: deps
+deps:
+	yarn install
