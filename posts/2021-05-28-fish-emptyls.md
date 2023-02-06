@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "空enterでlsを実行するプラグインを作った"
 category: "shell"
 excerpt: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "pagicをちょっと触ってみた"
 category: "deno"
 excerpt: ""

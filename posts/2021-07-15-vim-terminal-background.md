@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "Vimのterminalの背景が透過しない"
 category: "vim"
 excerpt: ""

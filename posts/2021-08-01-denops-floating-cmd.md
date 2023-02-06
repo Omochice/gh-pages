@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "denops-popupをカーソル下に出そうとして詰まった"
 category: "Vim"
 excerpt: ""

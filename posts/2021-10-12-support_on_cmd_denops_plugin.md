@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "denops.vim で作ったプラグインを dein.vim の `on_cmd` でロードできるようにした"
 category: ""
 excerpt: ""

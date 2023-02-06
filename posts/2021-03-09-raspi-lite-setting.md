@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "Raspberry Pi ZeroでRaspberry OS Liteの初期設定をする"
 category: "RaspberryPi"
 excerpt: ""

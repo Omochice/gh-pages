@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "bashのソースにおけるifと&&の速度比較"
 category: "bash"
 excerpt: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "fortranでpnmの入出力を書く"
 category: "fortran"
 excerpt: ""

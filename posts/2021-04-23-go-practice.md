@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "golangで学部の演習をする"
 category: "golang"
 excerpt: ""

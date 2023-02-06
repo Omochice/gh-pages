@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "matplotlibで左右の軸にそれぞれ別の色をつける"
 category: "python"
 excerpt: ""

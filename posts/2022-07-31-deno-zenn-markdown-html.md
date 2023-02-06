@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "denoでzenn-markdown-htmlを使う"
 category: "deno"
 excerpt: ""

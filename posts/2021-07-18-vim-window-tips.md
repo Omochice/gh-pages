@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "vimですでに出ているwindowを雨が書きして出力を出す方法"
 category: "Vim"
 excerpt: ""

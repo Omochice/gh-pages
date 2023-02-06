@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "fortranでラプラシアンフィルタを書く"
 category: "fortran"
 excerpt: ""

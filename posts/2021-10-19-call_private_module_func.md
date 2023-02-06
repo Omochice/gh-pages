@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "RubyのModule内にあるPrivateな関数を呼ぶ"
 category: "Ruby"
 excerpt: ""

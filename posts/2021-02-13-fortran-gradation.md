@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "Fortranで階調補正をする"
 category: "fortran"
 excerpt: ""

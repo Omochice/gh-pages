@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "github actionsでfortranのformatを自動実行する"
 category: "fortran"
 excerpt: ""

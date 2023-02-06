@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: zenn.tsx
 title: "xfceでマルチモニタ間のwindowの移動をする"
 category: "xfce"
 excerpt: ""
