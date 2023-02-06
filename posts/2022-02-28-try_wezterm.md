@@ -1,7 +1,7 @@
 ---
 layout: zenn.tsx
 title: "weztermをためしてみる"
-category: ""
+category: [""]
 excerpt: ""
 ---
 
