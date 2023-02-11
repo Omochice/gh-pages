@@ -16,6 +16,9 @@ export default function* (): Generator<Data> {
       layout: "base.tsx",
       content: () => (
         <>
+          <h1 className="text-6xl leading-normal">
+            {title}: match {posts.length} posts.
+          </h1>
           <BlogPosts posts={posts} />
         </>
       ),
