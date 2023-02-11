@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "manjaroでアイコンフォントなどが豆腐になることへの対処"
 topics: []
+type: "tech"
 excerpt: ""
 ---
 

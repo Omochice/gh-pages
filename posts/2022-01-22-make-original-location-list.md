@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "Vimで独自のロケーションリストをつくる"
 topics: ["Vim"]
+type: "tech"
 excerpt: ""
 ---
 

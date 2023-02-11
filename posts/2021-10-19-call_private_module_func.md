@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "RubyのModule内にあるPrivateな関数を呼ぶ"
 topics: ["Ruby"]
+type: "tech"
 excerpt: ""
 ---
 

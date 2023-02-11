@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "Pythonの二次元配列の初期化の速度"
 topics: ["Python"]
+type: "tech"
 excerpt: ""
 ---
 

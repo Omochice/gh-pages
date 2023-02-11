@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "vimですでに出ているwindowを上書きして出力を出す方法"
 topics: ["Vim"]
+type: "tech"
 excerpt: ""
 ---
 

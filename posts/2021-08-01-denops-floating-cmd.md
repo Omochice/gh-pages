@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "denops-popupをカーソル下に出そうとして詰まった"
 topics: ["Vim"]
+type: "tech"
 excerpt: ""
 ---
 

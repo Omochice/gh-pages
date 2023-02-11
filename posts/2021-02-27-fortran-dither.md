@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "fortranでdither法を使って2値化をする"
 topics: ["fortran"]
+type: "tech"
 excerpt: ""
 math: true
 ---

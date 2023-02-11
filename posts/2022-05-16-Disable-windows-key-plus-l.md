@@ -1,4 +1,5 @@
 ---
+type: "tech"
 layout: zenn.tsx
 title: "Windows11でWindows+Lを無効化する"
 category: [""]

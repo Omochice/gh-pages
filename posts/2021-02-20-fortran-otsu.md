@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "fortranで大津の2値化を書く"
 topics: ["fortran"]
+type: "tech"
 excerpt: ""
 math: true
 ---

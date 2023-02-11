@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "`get-diff-action`で日本語のファイルを抽出する"
 topics: ["git"]
+type: "tech"
 excerpt: ""
 ---
 

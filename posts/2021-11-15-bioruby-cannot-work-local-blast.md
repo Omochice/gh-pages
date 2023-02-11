@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "BioRubyでローカルのBlastが動かない"
 topics: ["ruby", "bioruby"]
+type: "tech"
 excerpt: ""
 ---
 

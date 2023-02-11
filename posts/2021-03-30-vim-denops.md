@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "vimの拡張機能をDenoで書いた話"
 topics: ["vim"]
+type: "tech"
 excerpt: ""
 ---
 

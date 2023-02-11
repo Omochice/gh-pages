@@ -1,4 +1,5 @@
 ---
+type: "tech"
 layout: zenn.tsx
 title: "weztermをためしてみる"
 category: [""]

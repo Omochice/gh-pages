@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "dps-codic-vimをdenopsの更新に合わせてアップデートした"
 topics: ["vim"]
+type: "tech"
 excerpt: ""
 ---
 

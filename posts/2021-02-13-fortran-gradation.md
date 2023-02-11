@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "Fortranで階調補正をする"
 topics: ["fortran"]
+type: "tech"
 excerpt: ""
 math: true
 ---

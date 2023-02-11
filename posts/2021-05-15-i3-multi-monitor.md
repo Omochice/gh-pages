@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "i3でマルチモニタをしようとしてハマった話"
 topics: ["i3-wm"]
+type: "tech"
 excerpt: ""
 ---
 

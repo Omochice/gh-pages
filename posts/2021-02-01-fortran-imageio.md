@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "fortranでpnmの入出力を書く"
 topics: ["fortran"]
+type: "tech"
 excerpt: ""
 ---
 

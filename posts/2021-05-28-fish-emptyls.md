@@ -1,4 +1,5 @@
 ---
+type: "tech"
 layout: zenn.tsx
 title: "空enterでlsを実行するプラグインを作った"
 tsgs: ["shell"]

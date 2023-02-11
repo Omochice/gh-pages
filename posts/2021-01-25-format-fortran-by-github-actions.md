@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "github actionsでfortranのformatを自動実行する"
 topics: ["fortran"]
+type: "tech"
 excerpt: ""
 ---
 

@@ -2,6 +2,7 @@
 layout: zenn.tsx
 title: "canny edge detectionをfortranで書く"
 topics: ["fortran"]
+type: "tech"
 excerpt: ""
 math: true
 ---

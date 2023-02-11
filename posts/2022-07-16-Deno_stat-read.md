@@ -1,4 +1,5 @@
 ---
+type: "tech"
 layout: zenn.tsx
 title: "Deno.statのモードの読み方"
 category: ["Deno"]
