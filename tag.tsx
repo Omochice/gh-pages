@@ -1,16 +1,16 @@
-import {join} from "https://deno.land/std@0.130.0/path/mod.ts"
+import { join } from "https://deno.land/std@0.130.0/path/mod.ts";
 import { Data } from "lume/core.ts";
 import { getPosts, getTags } from "./posts.ts";
-import { BlogPosts } from "./index.tsx";
+import { BlogPosts } from "./_includes/blogPosts.tsx";
 
 export default function* (): Generator<Data> {
-  const tags = getTags();
+  const ext = ".html"
   for (const tag of getTags()) {
     const title = `#${tag}`;
     const posts = getPosts(tag);
 
     yield {
-      url: join("/", "tag", tag),
+      url: join("/", "tag", tag + ext ),
       title,
       tag,
       layout: "base.tsx",
