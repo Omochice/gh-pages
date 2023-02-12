@@ -5,7 +5,7 @@ import zennRenderer from "./plugins/zenn-renderer/mod.ts";
 import zennKatex from "./plugins/zenn-katex/mod.ts";
 
 const site = lume({
-  location: new URL("https://omochice.github.io/toy-lume/"),
+  location: new URL("https://omochice.github.io/gh-pages/"),
 });
 
 site.use(jsx())
