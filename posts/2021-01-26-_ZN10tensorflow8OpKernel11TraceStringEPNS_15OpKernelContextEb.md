@@ -6,8 +6,6 @@ type: "tech"
 excerpt: ""
 ---
 
-# {{ page.title }}
-
 いつも使っている tensorflow のコードを動かそうとしたら次のエラーが出た。
 
 ```console

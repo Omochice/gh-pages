@@ -6,8 +6,6 @@ type: "tech"
 excerpt: ""
 ---
 
-# {{ page.title  }}
-
 ```yaml
 name: Fortran CI
 

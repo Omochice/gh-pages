@@ -6,8 +6,6 @@ type: "tech"
 excerpt: ""
 ---
 
-# {{ page.title }}
-
 BioRuby には `Bio::Blast` というクラスがあり、リモート / ローカルの Blast を動かすことができる。
 
 しかし、自分の手元でローカルの Blast を動かそうとしたところ、うまくいかなかった。

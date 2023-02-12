@@ -6,8 +6,6 @@ type: "tech"
 excerpt: ""
 ---
 
-# {{ page.title }}
-
 gnome であれば `super + Left or Right...` で別のモニタに window を移動できる。
 
 xfce ではタイル表示は標準で搭載されているが、モニタ間の移動は提供されていない。
